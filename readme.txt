@@ -1,4 +1,4 @@
 ***
-This is a collection of solutions of A-Z DSA sheet collected by Striver
+This is a collection of solutions Striver's DSA sheet 
 solved by SOHAN MONIES
 ****
